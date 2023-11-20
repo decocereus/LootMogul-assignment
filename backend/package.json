@@ -7,7 +7,6 @@
   "author": {
     "name": "Amartya Singh"
   },
-  "type": "module",
   "scripts": {
     "build": "strapi build",
     "develop": "strapi develop",
